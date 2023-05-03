@@ -1,0 +1,29 @@
+When someone requests a key:
+ - Use email route to send email to recipient with all information
+
+When someone returns a key:
+ 1. Use user route to remove key from user
+ 2. Use email route to send email to adminstrator
+ 3. Adminstrator must actually provide instructions on how to return the key
+ 4. Adminstrator must click the return button (NEED TO IMPLEMENT THIS) ->
+	uses key route to PATCH availability
+
+When someone reports a key:
+ 1. Use user route to remove key from user
+ 2. Use email route to send email to adminstrator
+ 3. Once the key is found, do step 4 in the above
+
+ ----------------------------------------------------------------------------------------
+
+ 1. Write email service class
+ 2. Write "Return" button in SearchKeysPage
+ 3. Rig "submit" button in RequestKeyPage to email service for requests
+ 4. Implement "return key" functionality (follow todo.txt for more info)
+ 5. Implement "report key" functionality (follow todo.txt for more info)
+ 6. Rig up menu based on role
+ 7. Demo and testing with one other person
+ 8. Demo with backend on production
+ 9. Deploy frontend to cloud
+ 10. Demo and testing again with one other person
+ 11. Client training
+ 12. Reset database. Have Jeanette manually set as administrator. Re-upload all keys.

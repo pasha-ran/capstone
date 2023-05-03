@@ -1,0 +1,236 @@
+series_id,sequence_id,building,key_type,location
+GMB-236,1,Femoyer Hall,door,218
+GMB-236,2,Femoyer Hall,door,218
+10B-6,1,Femoyer Hall,door,312
+10B-6,2,Femoyer Hall,door,312
+10B-6,3,Femoyer Hall,door,312
+10B-5,1,Femoyer Hall,door,326
+10B-5,2,Femoyer Hall,door,326
+10B-5,3,Femoyer Hall,door,326
+81G-39,1,Femoyer Hall,door,413
+81G-39,2,Femoyer Hall,door,413
+81G-39,3,Femoyer Hall,door,413
+535,1,Goodwin Hall,display ,atrium
+CLGA-41,13,Goodwin Hall,door,classrooms
+CLGA-41,14,Goodwin Hall,door,classrooms
+MX8,11,Goodwin Hall ,door,main
+38-1,1,North End 460 Suite 306,door,main
+38-1,2,North End 460 Suite 306,door,main
+38-1,3,North End 460 Suite 306,door,main
+38-1,4,North End 460 Suite 306,door,main
+38-1,5,North End 460 Suite 306,door,main
+38-1,6,North End 460 Suite 306,door,main
+38-1,7,North End 460 Suite 306,door,main
+38-1,8,North End 460 Suite 306,door,main
+38-1,9,North End 460 Suite 306,door,main
+38-1,10,North End 460 Suite 306,door,main
+38-1,11,North End 460 Suite 306,door,main
+38-1,12,North End 460 Suite 306,door,main
+38-1,13,North End 460 Suite 306,door,main
+38-1,14,North End 460 Suite 306,door,main
+38-1,14,North End 460 Suite 306,door,main
+38-1,15,North End 460 Suite 306,door,main
+38-1,16,North End 460 Suite 306,door,main
+38-1,17,North End 460 Suite 306,door,main
+38-1,18,North End 460 Suite 306,door,main
+38,1,North End 460 Suite 306,door,master
+38,2,North End 460 Suite 306,door,master
+38,3,North End 460 Suite 306,door,master
+38,4,North End 460 Suite 306,door,master
+38-9,1,North End 460 Suite 306,door,2902
+38-2,1,North End 460 Suite 306,door,2904
+38-3,1,North End 460 Suite 306,door,2905
+38-4,1,North End 460 Suite 306,door,2906
+38-5,1,North End 460 Suite 306,door,2907
+38-8,1,North End 460 Suite 306,door,2912
+GMB-108,3,Randolph Hall,door,2
+GMB-108,4,Randolph Hall,door,2
+GMB-108,5,Randolph Hall,door,2
+BL 13,1,Torgersen Hall,file_cabinet,3029/keycab
+BL 13,2,Torgersen Hall,file_cabinet,3029/keycab
+UM318,1,Torgersen Hall,file_cabinet,3046
+UM318,2,Torgersen Hall,file_cabinet,3046
+HON117,1,Torgersen Hall,file_cabinet,2160E
+HON117,2,Torgersen Hall,file_cabinet,2160E
+MX9-1,1,Torgersen Hall,door,main
+MX9-1,2,Torgersen Hall,door,main
+MX9-1,3,Torgersen Hall,door,main
+MX9-1,4,Torgersen Hall,door,main
+MX9-1,5,Torgersen Hall,door,main
+MX9-1,6,Torgersen Hall,door,main
+MX9-1,7,Torgersen Hall,door,main
+MX9-1,8,Torgersen Hall,door,main
+MX9-1,9,Torgersen Hall,door,main
+MX9-1,10,Torgersen Hall,door,main
+MX9-1,11,Torgersen Hall,door,main
+MX9-1,12,Torgersen Hall,door,main
+MX9-1,13,Torgersen Hall,door,main
+MX9-1,14,Torgersen Hall,door,main
+MX9-1,15,Torgersen Hall,door,main
+MX9-1,16,Torgersen Hall,door,main
+MX9-1,17,Torgersen Hall,door,main
+MX9-1,18,Torgersen Hall,door,main
+MX9-1,19,Torgersen Hall,door,main
+MX9-1,20,Torgersen Hall,door,main
+X9B,1,Torgersen Hall,door,3000master
+X9B,2,Torgersen Hall,door,3000master
+X9B,3,Torgersen Hall,door,3000master
+X9B,4,Torgersen Hall,door,3000master
+X9B,5,Torgersen Hall,door,3000master
+X9B,6,Torgersen Hall,door,3000master
+X9S-1,6,Torgersen Hall,door,2040corridor
+X9S-1,7,Torgersen Hall,door,2040corridor
+X9S-1,8,Torgersen Hall,door,2040corridor
+X9S-29,1,Torgersen Hall,door,2040F
+X9S-29,2,Torgersen Hall,door,2040F
+X9S-29,3,Torgersen Hall,door,2040F
+X9S-28,1,Torgersen Hall,door,2040G
+X9S-28,2,Torgersen Hall,door,2040G
+X9S-28,3,Torgersen Hall,door,2040G
+X9B-24,1,Torgersen Hall,door,2045
+X9B-24,2,Torgersen Hall,door,2045
+X9B-24,3,Torgersen Hall,door,2045
+X9B-24,4,Torgersen Hall,door,2045
+X9B-24,5,Torgersen Hall,door,2045
+X9B-24,6,Torgersen Hall,door,2045
+X9B-24,7,Torgersen Hall,door,2045
+X9B-24,8,Torgersen Hall,door,2045
+X9B-24,9,Torgersen Hall,door,2045
+X9B-24,10,Torgersen Hall,door,2045
+X9B-24,11,Torgersen Hall,door,2045
+X9B-24,12,Torgersen Hall,door,2045
+MX9-87,1,Torgersen Hall,door,2080
+MX9-87,2,Torgersen Hall,door,2080
+MX9-87,3,Torgersen Hall,door,2080
+MX9-87,4,Torgersen Hall,door,2080
+MX9-87,5,Torgersen Hall,door,2080
+X9B-7,1,Torgersen Hall,door,3000/3046
+X9B-7,2,Torgersen Hall,door,3000/3046
+X9B-7,1,Torgersen Hall,door,3000/3046
+X9B-7,2,Torgersen Hall,door,3000/3046
+X9B-7,3,Torgersen Hall,door,3000/3046
+X9B-7,4,Torgersen Hall,door,3000/3046
+X9B-7,5,Torgersen Hall,door,3000/3046
+X9B-7,6,Torgersen Hall,door,3000/3046
+X9B-7,7,Torgersen Hall,door,3000/3046
+X9B-7,8,Torgersen Hall,door,3000/3046
+X9B-7,9,Torgersen Hall,door,3000/3046
+X9B-7,10,Torgersen Hall,door,3000/3046
+X9B-7,11,Torgersen Hall,door,3000/3046
+X9B-7,12,Torgersen Hall,door,3000/3046
+X9B-7,13,Torgersen Hall,door,3000/3046
+X9B-7,14,Torgersen Hall,door,3000/3046
+X9B-7,15,Torgersen Hall,door,3000/3046
+X9B-7,16,Torgersen Hall,door,3000/3046
+X9B-7,17,Torgersen Hall,door,3000/3046
+X9B-7,18,Torgersen Hall,door,3000/3046
+X9B-7,19,Torgersen Hall,door,3000/3046
+X9B-7,20,Torgersen Hall,door,3000/3046
+X9B-7,21,Torgersen Hall,door,3000/3046
+X9B-7,22,Torgersen Hall,door,3000/3046
+X9B-7,23,Torgersen Hall,door,3000/3046
+X9B-7,24,Torgersen Hall,door,3000/3046
+X9B-7,25,Torgersen Hall,door,3000/3046
+X9B-7,26,Torgersen Hall,door,3000/3046
+X9B-7,27,Torgersen Hall,door,3000/3046
+X9B-7,28,Torgersen Hall,door,3000/3046
+X9B-7,29,Torgersen Hall,door,3000/3046
+X9B-7,30,Torgersen Hall,door,3000/3046
+X9B-7,31,Torgersen Hall,door,3000/3046
+X9B-7,32,Torgersen Hall,door,3000/3046
+X9B-7,33,Torgersen Hall,door,3000/3046
+X9B-7,34,Torgersen Hall,door,3000/3046
+X9B-7,35,Torgersen Hall,door,3000/3046
+X9B-7,36,Torgersen Hall,door,3000/3046
+X9B-7,37,Torgersen Hall,door,3000/3046
+X9B-7,38,Torgersen Hall,door,3000/3046
+X9B-1,1,Torgersen Hall,door,3004
+X9B-1,7,Torgersen Hall,door,3004
+X9B-1,2,Torgersen Hall,door,3004
+X9B-1,8,Torgersen Hall,door,3004
+X9B-1,3,Torgersen Hall,door,3004
+X9B-1,9,Torgersen Hall,door,3004
+X9B-1,4,Torgersen Hall,door,3004
+X9B-1,5,Torgersen Hall,door,3004
+X9B-1,6,Torgersen Hall,door,3004
+X9B-13,10,Torgersen Hall,door,3006
+X9B-13,11,Torgersen Hall,door,3006
+X9B-13,12,Torgersen Hall,door,3006
+X9B-13,13,Torgersen Hall,door,3006
+X9B-13,14,Torgersen Hall,door,3006
+X9B-13,15,Torgersen Hall,door,3006
+X9B-13,16,Torgersen Hall,door,3006
+X9B-13,17,Torgersen Hall,door,3006
+X9B-13,18,Torgersen Hall,door,3006
+X9B-13,1,Torgersen Hall,door,3006
+X9B-13,19,Torgersen Hall,door,3006
+X9B-13,2,Torgersen Hall,door,3006
+X9B-13,20,Torgersen Hall,door,3006
+X9B-13,3,Torgersen Hall,door,3006
+X9B-13,4,Torgersen Hall,door,3006
+X9B-13,5,Torgersen Hall,door,3006
+X9B-13,6,Torgersen Hall,door,3006
+X9B-13,7,Torgersen Hall,door,3006
+X9B-13,8,Torgersen Hall,door,3006
+X9B-13,9,Torgersen Hall,door,3006
+X9B-14,1,Torgersen Hall,door,3007
+X9B-14,2,Torgersen Hall,door,3007
+X9B-14,3,Torgersen Hall,door,3007
+X9B-20,16,Torgersen Hall,door,3008
+X9B-20,17,Torgersen Hall,door,3008
+X9B-20,18,Torgersen Hall,door,3008
+X9B-10,1,Torgersen Hall,door,3009
+X9B-10,2,Torgersen Hall,door,3009
+X9B-9,1,Torgersen Hall,door,3020
+X9B-9,2,Torgersen Hall,door,3020
+X9B-9,3,Torgersen Hall,door,3020
+X9B-16,1,Torgersen Hall,door,3021
+X9B-16,2,Torgersen Hall,door,3021
+X9B-16,3,Torgersen Hall,door,3021
+X9B-16,4,Torgersen Hall,door,3021
+X9B-16,5,Torgersen Hall,door,3021
+X9B-16,6,Torgersen Hall,door,3021
+X9B-16,7,Torgersen Hall,door,3021
+X9B-16,8,Torgersen Hall,door,3021
+X9B-16,9,Torgersen Hall,door,3021
+X9B-16,10,Torgersen Hall,door,3021
+X9B-16,11,Torgersen Hall,door,3021
+X9B-8,1,Torgersen Hall,door,3022
+X9B-8,2,Torgersen Hall,door,3022
+X9B-17,1,Torgersen Hall,door,3023
+X9B-17,2,Torgersen Hall,door,3023
+X9B-18,1,Torgersen Hall,door,3025
+X9B-18,2,Torgersen Hall,door,3025
+X9B-18,3,Torgersen Hall,door,3025
+X9B-18,4,Torgersen Hall,door,3025
+X9B-6,1,Torgersen Hall,door,3026
+X9B-6,2,Torgersen Hall,door,3026
+X9B-6,3,Torgersen Hall,door,3026
+X9B-6,4,Torgersen Hall,door,3026
+X9B-25,1,Torgersen Hall,door,3027
+X9B-25,2,Torgersen Hall,door,3027
+X9B-25,3,Torgersen Hall,door,3027
+X9B-23,1,Torgersen Hall,door,3027A
+X9B-23,2,Torgersen Hall,door,3027A
+X9B-5,1,Torgersen Hall,Gorr,3028
+X9B-5,2,Torgersen Hall,door,3028
+X9B-5,3,Torgersen Hall,door,3028
+X9B-5,4,Torgersen Hall,door,3028
+X9B-5,5,Torgersen Hall,door,3028
+X9B-5,6,Torgersen Hall,door,3028
+X9B-4,1,Torgersen Hall,door,3040
+X9B-4,2,Torgersen Hall,door,3040
+X9B-2,1,Torgersen Hall,door,3044
+X9B-2,2,Torgersen Hall,door,3044
+X9B-2,3,Torgersen Hall,door,3044
+X9B-2,4,Torgersen Hall,door,3044
+X9B-2,5,Torgersen Hall,door,3044
+X9B-2,6,Torgersen Hall,door,3044
+X9B-2,7,Torgersen Hall,door,3044
+X9B-2,8,Torgersen Hall,door,3044
+X9B-3,1,Torgersen Hall,door,3044A
+X9B-3,2,Torgersen Hall,door,3044A
+X9B-3,3,Torgersen Hall,door,3044A
+X9B-3,4,Torgersen Hall,door,3044A
+X9B-3,5,Torgersen Hall,door,3044A
+X9B-3,6,Torgersen Hall,door,3044A
