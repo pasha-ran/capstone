@@ -171,14 +171,6 @@ load balancers, persistent volumes, Cross Origin Resource sharing restrictions, 
 
 *To assist in development, ask Jeanette for the most recent copy of the Dean's Key Log excel file. Having it will let you have real data to test on.
 
-## Semester 2 HelpSession / Q+A with Maheer.
-
-We edit the mongo in the first video.
-
-https://youtu.be/wB9f0s9tb_g
-
-https://youtu.be/0Mj8TILVYKQ
-
 ## TODO (ordered by priority -- start from top down)
 
 * Setup a CI platform so that pushes to master can automatically, build, test and deploy to the CS cloud. This will save tremendous time.
