@@ -42,7 +42,7 @@ Click [this guide](https://docs.github.com/en/enterprise-server@3.1/authenticati
 * [React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ### Setup Repo
-1. Clone the repo using `git clone git@github.com:maheeraeron/keymanagementsystem.git`
+1. Clone the repo
 
 ### Setup Backend
 1. Navigate to `backend` directory
@@ -134,7 +134,7 @@ If you do not have access to the keymanagement namespace on cs cloud, you will n
 
   a. docker login container.cs.vt.edu (If it asks for credentials, use your CS account credentials)
 
-  b. docker build -t (image name) . (For the backend, the image name is container.cs.vt.edu/maheeraeron/keymanagementsystem/flask-api:latest. Make sure to include that last period in the command.)
+  b. docker build -t (image name) . 
 
   c. docker push (image name)
 
